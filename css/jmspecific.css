@@ -1,0 +1,18 @@
+.jumbotron {
+	background-color: #282828;
+}
+
+.jumbotron h1 {
+	padding-top: 120px; 
+	padding-left: 120px; 
+	color:#989898;
+}
+.jumbotron h4 {
+	padding-left: 240px; 
+	color:#989898;
+}
+
+.nav li h2 {
+	text-align: center;
+	padding: 0px 10px 0px 10px;
+}
