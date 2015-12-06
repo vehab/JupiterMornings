@@ -21,7 +21,7 @@ a.hover {
 .nav {
 	color: #b3b3b3;
 	text-align: center;
-	background-color: #f2f2f2;
+	background-color: #f9f9f9;
 }
 
 .nav li {
@@ -50,6 +50,17 @@ a.hover {
 .projects h2 {
 	text-align: center;
 	padding-bottom: 50px;
+}
+
+.social {
+	padding-top: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+.social img{
+	width: 50px;
+	height: auto;
 }
 
 .footer {
