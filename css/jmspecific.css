@@ -1,19 +1,27 @@
 .jumbotron {
-	background-image: url("media/JMheader1.png");
+	background-image: url("http://jupitermornings.com/media/JMheader1.png");
+	background-size: 100% 100%;
 	text-align: center;
+	height: 400px;
+	margin-bottom: 0px;
 }
 
 .jumbotron h1 {
-	padding-top: 150px; 
-	color: #989898;
+	margin-top: 200px; 
+	color: #fff;
 }
 .jumbotron h4 {
-	color: #989898;
+	color: #fff;
+}
+
+a.hover {
+	text-decoration: none;
 }
 
 .nav {
+	color: #b3b3b3;
 	text-align: center;
-	background-color: #fff;
+	background-color: #f2f2f2;
 }
 
 .nav li {
@@ -21,10 +29,31 @@
 }
 
 .guts {
+	color: #b3b3b3;
 	background-color: #fff;
-	height: 1000px;
+}
+
+.about {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.projects {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.projects h3 {
+	text-align: center;
+}
+
+.projects h2 {
+	text-align: center;
+	padding-bottom: 50px;
 }
 
 .footer {
-	background-color: #fff;
+	color: #b3b3b3;
+	background-color: #e6e6e6;
 }
+
