@@ -116,6 +116,22 @@ p {
 }
 /* end css for body of index.html */
 
-.qwe h2 {
-	color: #fff;
+.blogpost h2 {
+	color: #800000;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.blogpost h3 {
+	color: #800000;
+}
+
+.blogpost h4 {
+	color: #ffe5e5;
+	text-align: left;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
 }
