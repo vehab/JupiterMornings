@@ -1,3 +1,4 @@
+/* begin css for heading image, nav bar, and links */
 .jumbotron {
 	background-image: url("http://jupitermornings.com/media/JMheader1.png");
 	background-size: 100% 100%;
@@ -40,7 +41,9 @@ a:active {
 .nav li {
 	padding: 0px 20px 0px 20px;
 }
+/* end css for heading image, nav bar, and links */
 
+/* begin css for body of index.html */
 .guts h2 {
 	color: #ffe5e5;
 	background-color: #fff;
@@ -121,3 +124,30 @@ a:active {
 p {
 	text-align: justify;
 }
+/* end css for body of index.html */
+
+/* begin css for blog posts */
+
+.blogpost h2 {
+	text-align: center;
+/*	padding-bottom: 20px;*/
+	color: #ffe5e5;
+}
+
+.blogpost h3 {
+	color: #ffe5e5;
+}
+
+.blogpost h4 {
+	text-align: left
+	color: #ffe5e5;
+}
+
+.blogpost iframe {
+	text-align: center;
+}
+
+
+/* end css for blog posts */
+
+
