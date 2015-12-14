@@ -1,5 +1,6 @@
 /* begin css for heading image, nav bar, and links */
 .jumbotron {
+	background-color: #ffbf80;
 	background-image: url("http://jupitermornings.com/media/JMheader1.png");
 	background-size: 100% 100%;
 	text-align: center;
@@ -12,7 +13,7 @@
 	color: #fff;
 }
 .jumbotron h4 {
-	color: #000;
+	color: #fff;
 }
 
 a:link {
@@ -104,11 +105,11 @@ a:active {
 /*.social h2 {
 	padding-bottom: 20px;
 }*/
-/*
+
 .social img {
 	height: 35px;
 	width: auto;
-}*/
+}
 
 p {
 	text-align: justify;
