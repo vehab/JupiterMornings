@@ -110,24 +110,13 @@ a:active {
 	width: auto;
 }
 
-/*.feedback {
-	padding-top: 20px;
-	padding-bottom: 20px;
-	text-align: center;
-}
-
-.footer {
-	color: #b3b3b3;
-	background-color: #e6e6e6;
-}*/
-
 p {
 	text-align: justify;
 }
 /* end css for body of index.html */
 
 /* begin css for blog posts */
-
+]
 .blogpost h2 {
 	text-align: center;
 	padding-bottom: 20px;
@@ -144,12 +133,9 @@ p {
 }
 
 iframe {
-	display: block
+	display: block;
 	margin: 0 auto;
 }
-
-
-
 /* end css for blog posts */
 
 
