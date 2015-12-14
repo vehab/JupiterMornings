@@ -128,19 +128,23 @@ p {
 
 /* begin css for blog posts */
 
-.blogpost .blogpost h2 {
+.blogpost h2 {
 	text-align: center;
 	padding-bottom: 20px;
 	color: #661500;
 }
 
-.blogpost .blogpost h3 {
+.blogpost h3 {
 	color: #661500;
 }
 
-.blogpost .blogpost h4 {
+.blogpost h4 {
 	text-align: left;
 	color: #ffe5e5;
+}
+
+iframe {
+	align: middle;
 }
 
 
