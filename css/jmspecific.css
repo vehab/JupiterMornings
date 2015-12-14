@@ -144,7 +144,8 @@ p {
 }
 
 iframe {
-	align: middle;
+	display: block
+	margin: 0 auto;
 }
 
 
