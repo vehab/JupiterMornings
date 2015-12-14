@@ -130,22 +130,19 @@ p {
 
 .blogpost h2 {
 	text-align: center;
-/*	padding-bottom: 20px;*/
-	color: #ffe5e5;
+	padding-bottom: 20px;
+	color: #661500;
 }
 
 .blogpost h3 {
-	color: #ffe5e5;
+	color: #661500;
 }
 
 .blogpost h4 {
-	text-align: left
+	text-align: left;
 	color: #ffe5e5;
 }
 
-.blogpost iframe {
-	text-align: center;
-}
 
 
 /* end css for blog posts */
