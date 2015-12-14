@@ -116,17 +116,17 @@ p {
 }
 /* end css for body of index.html */
 
-.blogpost h2 {
+.postblog h2 {
 	color: #800000;
 	text-align: center;
 	padding-bottom: 20px;
 }
 
-.blogpost h3 {
+.postblog h3 {
 	color: #800000;
 }
 
-.blogpost h4 {
+.postblog h4 {
 	color: #ffe5e5;
 	text-align: left;
 }
