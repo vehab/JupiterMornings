@@ -115,26 +115,3 @@ p {
 	text-align: justify;
 }
 /* end css for body of index.html */
-
-/* begin css for blog posts */
-
-.blogpost h2 {
-	text-align: center;
-	padding-bottom: 20px;
-	color: #661500;
-}
-
-.blogpost h3 {
-	color: #661500;
-}
-
-.blogpost h4 {
-	text-align: left;
-	color: #ffe5e5;
-}
-
-iframe {
-	display: block;
-	margin: 0 auto;
-}
-/* end css for blog posts */
