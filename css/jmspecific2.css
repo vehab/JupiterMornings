@@ -39,15 +39,6 @@ body {
 	color: #FCF8F3;
 	font-size: 6em;
 }
-
-.navigation h2 {
-  margin-top: 0px;
-  text-align: center;
-  font-family: "Helvetica Neue" inherit;
-	font-weight: lighter;
-	color: #FCF8F3;
-	font-size: 3em;
-}
 /* end css for navigation pane */
 
 /* begin css for footer pane */
@@ -70,6 +61,15 @@ body {
 	margin: 40px 0px 0px 0px;
 	color: #FCF8F3;
 }
+
+.aboutdescription h2 {
+  margin-top: 0px;
+  text-align: center;
+  font-family: "Helvetica Neue" inherit;
+	font-weight: lighter;
+	color: #FCF8F3;
+	font-size: 2em;
+}
 /* end css for about page */
 
 /* begin css for blog page */
@@ -81,15 +81,13 @@ body {
 
 .blogdescription h2 {
   margin-top: 0px;
-  text-align: left;
+  text-align: center;
   font-family: "Helvetica Neue" inherit;
 	font-weight: lighter;
 	color: #FCF8F3;
 	font-size: 2em;
 }
 /* end css for blog page */
-
-
 
 /* begin css for links */
 a:link {
