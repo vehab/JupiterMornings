@@ -56,12 +56,14 @@ body {
 /* end css for footer pane */
 
 /* begin css for about page */
-.aboutdescription {
-	text-align: justify;
-	margin: 40px 0px 0px 0px;
+.aboutheader h2 {
+  margin-top: 0px;
+  text-align: center;
+  font-family: "Helvetica Neue" inherit;
+	font-weight: lighter;
 	color: #FCF8F3;
+	font-size: 2em;
 }
-
 .aboutdescription h2 {
   margin-top: 0px;
   text-align: center;
@@ -70,16 +72,16 @@ body {
 	color: #FCF8F3;
 	font-size: 2em;
 }
-/* end css for about page */
 
-/* begin css for blog page */
-.blogdescription {
+.aboutdescription {
 	text-align: justify;
 	margin: 40px 0px 0px 0px;
 	color: #FCF8F3;
 }
+/* end css for about page */
 
-.blogdescription h2 {
+/* begin css for blog page */
+.blogheader h2 {
   margin-top: 0px;
   text-align: center;
   font-family: "Helvetica Neue" inherit;
@@ -87,6 +89,23 @@ body {
 	color: #FCF8F3;
 	font-size: 2em;
 }
+
+.blogdescription h2 {
+  margin-top: 0px;
+  text-align: left;
+  font-family: "Helvetica Neue" inherit;
+	font-weight: lighter;
+	color: #FCF8F3;
+	font-size: 2em;
+}
+
+.blogdescription {
+	text-align: justify;
+	margin: 40px 0px 0px 0px;
+	color: #FCF8F3;
+}
+
+
 /* end css for blog page */
 
 /* begin css for links */
