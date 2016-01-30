@@ -126,3 +126,12 @@ a:active {
 	color: inherit;
 }
 /* end css for links */
+
+
+/* begin iframe css */
+.video iframe {
+  display: block;
+  margin: auto;
+  padding: 10px 0px 10px 0px;
+}
+/* end iframe css */
