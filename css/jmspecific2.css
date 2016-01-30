@@ -64,25 +64,6 @@ body {
 }
 /* end css for footer pane */
 
-/* begin css for links */
-a:link {
-	color: inherit;
-}
-
-a:visited {
-	color: inherit;
-}
-
-a:hover {
-	color: inherit;
-	text-decoration: none;
-}
-
-a:active {
-	color: inherit;
-}
-/* end css for links */
-
 /* begin css for about page */
 .aboutdescription {
 	text-align: justify;
@@ -107,3 +88,24 @@ a:active {
 	font-size: 2em;
 }
 /* end css for blog page */
+
+
+
+/* begin css for links */
+a:link {
+	color: inherit;
+}
+
+a:visited {
+	color: inherit;
+}
+
+a:hover {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:active {
+	color: inherit;
+}
+/* end css for links */
