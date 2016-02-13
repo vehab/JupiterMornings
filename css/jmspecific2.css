@@ -1,12 +1,12 @@
 /* begin css for body of page */
 body {
-    background-color: #FCF8F3;
+    background-color: #FFF;
 }
 /* end css for body of page */
 
 /* begin css for jumbotron pane*/
 .jumbotron {
-	background-color: #FCF8F3;
+	background-color: #FFF;
 	text-align: center;
 	height: 400px;
 	padding: 0px 0px 0px 0px;
@@ -17,14 +17,14 @@ body {
 .jumbotron h1 {
 	margin-top: 170px;
 	letter-spacing: -0.05em;
-	color: #000000;
+	color: #000;
 	font-size: 7em;
 }
 /* end css for jumbotron pane*/
 
 /* begin css for navigation pane */
 .navigation {
-	background-color: #000000;
+	background-color: #000;
 	text-align: center;
 	height: auto;
 	padding: 0px 0px 50px 0px;
@@ -36,14 +36,14 @@ body {
 	font-style: italic;
 	font-family: "Helvetica Neue" inherit;
 	font-weight: lighter;
-	color: #FCF8F3;
+	color: #FFF;
 	font-size: 6em;
 }
 /* end css for navigation pane */
 
 /* begin css for footer pane */
 .footer {
-	background-color: #FCF8F3;
+	background-color: #FFF;
 	text-align: center;
 	height: 50px;
 	padding: 0px 0px 0px 0px;
@@ -51,7 +51,7 @@ body {
 
 .footer p {
 	margin-top: 25px;
-	color: #000000;
+	color: #000;
 }
 /* end css for footer pane */
 
@@ -61,7 +61,7 @@ body {
   text-align: center;
   font-family: "Helvetica Neue" inherit;
 	font-weight: lighter;
-	color: #FCF8F3;
+	color: #FFF;
 	font-size: 2em;
 }
 .aboutdescription h2 {
@@ -69,14 +69,14 @@ body {
   text-align: center;
   font-family: "Helvetica Neue" inherit;
 	font-weight: lighter;
-	color: #FCF8F3;
+	color: #FFF;
 	font-size: 2em;
 }
 
 .aboutdescription {
 	text-align: justify;
 	margin: 40px 0px 0px 0px;
-	color: #FCF8F3;
+	color: #FFF;
 }
 /* end css for about page */
 
@@ -86,7 +86,7 @@ body {
   text-align: center;
   font-family: "Helvetica Neue" inherit;
 	font-weight: lighter;
-	color: #FCF8F3;
+	color: #FFF;
 	font-size: 2em;
 }
 
@@ -95,14 +95,14 @@ body {
   text-align: left;
   font-family: "Helvetica Neue" inherit;
 	font-weight: lighter;
-	color: #FCF8F3;
+	color: #FFF;
 	font-size: 2em;
 }
 
 .blogdescription {
 	text-align: justify;
 	margin: 40px 0px 0px 0px;
-	color: #FCF8F3;
+	color: #FFF;
 }
 
 
